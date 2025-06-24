@@ -1,2 +1,17 @@
-# snake-game
-A classic Snake Game built using Python and Pygame. Control the snake, eat food to grow, and avoid hitting walls or yourself.
+# 🐍 Snake Game in Python
+
+A simple classic Snake Game made using Python and Pygame.
+
+## 🎮 Features
+- Arrow key controls
+- Real-time score tracking
+- Game over logic
+
+## 💻 Technologies Used
+- Python
+- Pygame
+
+## ▶️ How to Run
+1. Make sure Python and Pygame are installed:
+```bash
+pip install pygame
